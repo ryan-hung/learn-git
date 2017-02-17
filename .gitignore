@@ -1,0 +1,6 @@
+# git 忽略文件
+.DS_Store
+*.txt
+!aa.txt
+Glob
+node_modules/
